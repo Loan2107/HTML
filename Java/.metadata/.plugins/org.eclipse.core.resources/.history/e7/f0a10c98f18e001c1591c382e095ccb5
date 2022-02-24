@@ -1,0 +1,13 @@
+
+public class HoaDon {
+	private String loaicafe;
+	private double gia, khoiluong;
+	
+	public HoaDon(String ten, double g, double kl) {
+		this.loaicafe = ten;
+		this.gia = g;
+		this.khoiluong = kl;
+	}
+	
+	
+}
